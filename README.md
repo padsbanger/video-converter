@@ -1,2 +1,11 @@
-# video-converter
-Video Converter application for desktop build using Elektron &amp; React
+### Getting started
+
+`npm install`
+
+Start dev server:
+
+`npm start`
+
+In a new terminal window:
+
+`npm run electron`
